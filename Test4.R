@@ -1,4 +1,4 @@
-#Variable
+
 first_name="Rajitha"
 firstName="Rajitha"
 firstname="Rajitha"
